@@ -43,7 +43,7 @@
 | **2** | **Tự rèn kỹ năng bảo mật tài khoản** | `Tiet2_Bao_Mat_Tai_Khoan.docx` | • Đánh giá độ mạnh mật khẩu & "Công thức mật khẩu mạnh".<br>• Minh chứng bật 2FA (đã che thông tin nhạy cảm).<br>• Checklist *"Quy tắc bảo mật tài khoản"*. |
 | **3** | **Nhận diện lừa đảo & nguy cơ online** | `Tiet3_Nhan_Dien_Lua_Dao.docx` | • Phân loại & giải thích 5 email mẫu (2 thật – 3 giả).<br>• Kết quả quét link qua VirusTotal / Google Safe Browsing.<br>• Báo cáo *"5 dấu hiệu nhận biết email/website lừa đảo"*. |
 | **4** | **Tự quản lý sức khỏe số** | `Tiet4_Suc_Khoe_So.docx`<br>`Poster_Suc_Khoe_So.jpg` | • Nhật ký 1 ngày phân bổ thời gian online/offline (Screen Time).<br>• Đề xuất giải pháp *"Digital Detox"* cho sinh viên.<br>• Thiết kế Poster tuyên truyền sức khỏe số. |
-| **5** | **Dự án tình huống & phản biện** | *(Nộp trên Google Drive)* | • Đóng vai xử lý tình huống thực tế (hack nick, lộ ảnh, phishing, nghiện game) và phản biện giải pháp. |
+| **5** | **Dự án tình huống & phản biện** | *(Nộp trên Google Drive)* | • Đóng vai xử lý tình huống thực tế bị chiêu trò lừa đảo trúng thưởng giả mạo và phản biện giải pháp. |
 
 ---
 
