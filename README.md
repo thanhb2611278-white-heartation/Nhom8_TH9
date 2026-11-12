@@ -1,6 +1,6 @@
 # 🛡️ LAB 09: BẢO MẬT THÔNG TIN VÀ SỨC KHỎE SỐ
 * **Nhóm:** `08`
-* **Lớp:** ``
+* **Mã học phần:** `CT005/F01`
 
 ![Môn học](https://img.shields.io/badge/Môn_học-Nền_tảng_công_nghệ_số-blue?style=flat-square)
 ![Đối tượng](https://img.shields.io/badge/Sinh_viên-Năm_nhất_CNTT-green?style=flat-square)
