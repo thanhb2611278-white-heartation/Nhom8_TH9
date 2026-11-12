@@ -2,7 +2,7 @@
 * **Nhóm:** `08`
 * **Lớp:** ``
 
-![Môn học](https://img.shields.io/badge/Môn_học-Nhập_môn_CNTT-blue?style=flat-square)
+![Môn học](https://img.shields.io/badge/Môn_học-Nền-tảng-công-nghệ-số-blue?style=flat-square)
 ![Đối tượng](https://img.shields.io/badge/Sinh_viên-Năm_nhất_CNTT-green?style=flat-square)
 ![Trạng thái](https://img.shields.io/badge/Trạng_thái-Hoàn_thành-success?style=flat-square)
 
