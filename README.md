@@ -46,11 +46,3 @@
 | **5** | **Dự án tình huống & phản biện** | *(Nộp trên Google Drive)* | • Đóng vai xử lý tình huống thực tế bị chiêu trò lừa đảo trúng thưởng giả mạo và phản biện giải pháp. |
 
 ---
-
-## 🖼️ Xem trước Poster Tuyên Truyền (Tiết 4)
-
-> *Mẹo: Bạn có thể đổi tên file ảnh cho khớp với tên dưới đây để GitHub tự động hiển thị hình ảnh ngay trên trang chủ.*
-
-![Poster Sống lành mạnh trong kỷ nguyên số](./Poster_Suc_Khoe_So.png)
-
----
